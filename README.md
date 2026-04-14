@@ -30,3 +30,6 @@ For Assessments, each team must create their **own private GitHub repo**, with:
 ```bash
 git clone https://github.com/<org-or-user>/finm3422.git
 cd finm3422
+Student: X successfully cloned the repo
+
+this is my lecture 6 demo update
